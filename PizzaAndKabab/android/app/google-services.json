@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818695211269",
+    "firebase_url": "https://pizzaandkebab-c2e33.firebaseio.com",
+    "project_id": "pizzaandkebab-c2e33",
+    "storage_bucket": "pizzaandkebab-c2e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818695211269:android:e4a178a82d7d022bd30f6c",
+        "android_client_info": {
+          "package_name": "com.pizzaandkabab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818695211269-m2akp46fglts9r92gn5ij0oq6gv0jgsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWqLVbwk4IerROaTU76F4_hF8XDfCWLpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818695211269-m2akp46fglts9r92gn5ij0oq6gv0jgsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

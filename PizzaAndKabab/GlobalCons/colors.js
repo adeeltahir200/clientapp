@@ -1,0 +1,15 @@
+export const colorWhite = '#FFFFFF';
+export const colorBlack = '#000';
+export const lightBlack = '#505050';
+export const headerColor = 'rgb(251,250,249)';
+export const blue = 'rgb(57,59,130)';
+export const sfLight = 'SF-Pro-Display-Light';
+export const sfMedium = 'SF-Pro-Display-Medium';
+export const sfRegular = 'SF-Pro-Display-Regular';
+export const Recoleta_Regular = 'Recoleta-Regular';
+export const Recoleta_Bold = 'Recoleta-Bold';
+export const phColor = '#dfdfdf';
+export const dbgColor = '#f6f6f6';
+export const greyText = 'rgb(200,206,203)';
+export const yellow = 'rgb(253,194,40)';
+export const Pink = 'rgb(233,81,73)';
